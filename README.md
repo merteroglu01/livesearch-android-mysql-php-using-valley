@@ -17,5 +17,5 @@ Add internet permission to your AndroidManifest.xml file.
 
 <h2>AppConfig</h2>
 
-You must change the LIVE_SEARCH static variable in AppConfig.java file.Modify the URL to your computer ip adress.
+You must change the LIVE_SEARCH static variable in AppConfig.java file. Modify the URL to your computer ip address.
 You can learn your computer ip adres in Command Prompt(cmd.exe). Execute this command : ipconfig
